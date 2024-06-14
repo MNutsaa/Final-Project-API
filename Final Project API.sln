@@ -7,25 +7,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Final Project", "Final Proj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{AADDD34A-2AE1-4870-A030-B3F1140844FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.API", "..\Forum.API\Forum.API.csproj", "{A0B82866-E83A-45C6-83AC-D8CD7DDC3F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.API", "..\Forum.API\Forum.API.csproj", "{A0B82866-E83A-45C6-83AC-D8CD7DDC3F37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9F2B0B37-225B-4A0E-B8A5-1448E143FAA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Entities", "..\Forum.Entities\Forum.Entities.csproj", "{8C3174E4-FF88-4634-A7FC-7F7798C9594F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Entities", "..\Forum.Entities\Forum.Entities.csproj", "{8C3174E4-FF88-4634-A7FC-7F7798C9594F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastucture", "Infrastucture", "{27421F34-BE31-40AD-804F-DD9BD217DE9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Data", "..\Forum.Data\Forum.Data.csproj", "{3F073059-8D92-4EBD-91B6-09DFB36C6679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Data", "..\Forum.Data\Forum.Data.csproj", "{3F073059-8D92-4EBD-91B6-09DFB36C6679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumRepository", "..\ForumRepository\ForumRepository.csproj", "{794390A4-6157-454F-916A-42867B05C8B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForumRepository", "..\ForumRepository\ForumRepository.csproj", "{794390A4-6157-454F-916A-42867B05C8B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{58014ED0-A17F-4B66-A87A-935C3BDC0AB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Contracts", "..\Forum.Contracts\Forum.Contracts.csproj", "{CAC519D7-711C-48A7-95ED-E7153CBCD7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Contracts", "..\Forum.Contracts\Forum.Contracts.csproj", "{CAC519D7-711C-48A7-95ED-E7153CBCD7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Models", "..\Forum.Models\Forum.Models.csproj", "{1797FC63-785F-4943-9B69-F61F59BA9054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Models", "..\Forum.Models\Forum.Models.csproj", "{1797FC63-785F-4943-9B69-F61F59BA9054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Service", "..\Forum.Service\Forum.Service.csproj", "{CFDD6F76-973D-4E29-8939-472DFA2BB0B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Service", "..\Forum.Service\Forum.Service.csproj", "{CFDD6F76-973D-4E29-8939-472DFA2BB0B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
